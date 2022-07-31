@@ -7,5 +7,8 @@
 
 - `git clone  https://github.com/Hamii-king-06/Termux-Basic-Installation.git`
 - `cd Termux-Basic-Installation`
-- ` python3  install.py
+- ` python3  install.py`
+
+
+
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923155912838)
